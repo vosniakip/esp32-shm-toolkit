@@ -1,0 +1,73 @@
+{
+  "schema": "roteiro_adxl355_v3",
+  "padrao": {
+    "sensor": "adxl355-01",
+    "montagem": "pcb-inclinada-v1",
+    "referencial": "conjunto",
+    "taxa": 500,
+    "faixa": 2,
+    "repeticao": 1,
+    "repeticoes": 1,
+    "atraso_s": 5,
+    "intervalo_s": 10,
+    "radio": "ativo",
+    "calibracao_id": "nao-aplicada",
+    "nota": ""
+  },
+  "etapas": [
+    {
+      "instrucao": "+Xn vertical para cima; apoie o conjunto em gabarito verificado e aguarde estabilizar.",
+      "parametros": {
+        "ensaio": "calibracao",
+        "posicao": "xpos",
+        "duracao_s": 60,
+        "repeticoes": 3
+      }
+    },
+    {
+      "instrucao": "+Xn vertical para baixo; apoie o conjunto em gabarito verificado e aguarde estabilizar.",
+      "parametros": {
+        "ensaio": "calibracao",
+        "posicao": "xneg",
+        "duracao_s": 60,
+        "repeticoes": 3
+      }
+    },
+    {
+      "instrucao": "+Yn vertical para cima; apoie o conjunto em gabarito verificado e aguarde estabilizar.",
+      "parametros": {
+        "ensaio": "calibracao",
+        "posicao": "ypos",
+        "duracao_s": 60,
+        "repeticoes": 3
+      }
+    },
+    {
+      "instrucao": "+Yn vertical para baixo; apoie o conjunto em gabarito verificado e aguarde estabilizar.",
+      "parametros": {
+        "ensaio": "calibracao",
+        "posicao": "yneg",
+        "duracao_s": 60,
+        "repeticoes": 3
+      }
+    },
+    {
+      "instrucao": "+Zn vertical para cima; apoie o conjunto em gabarito verificado e aguarde estabilizar.",
+      "parametros": {
+        "ensaio": "calibracao",
+        "posicao": "zpos",
+        "duracao_s": 60,
+        "repeticoes": 3
+      }
+    },
+    {
+      "instrucao": "+Zn vertical para baixo; apoie o conjunto em gabarito verificado e aguarde estabilizar.",
+      "parametros": {
+        "ensaio": "calibracao",
+        "posicao": "zneg",
+        "duracao_s": 60,
+        "repeticoes": 3
+      }
+    }
+  ]
+}

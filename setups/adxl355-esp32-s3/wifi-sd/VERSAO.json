@@ -1,0 +1,10 @@
+{
+  "pacote": "ADXL355_ESP32S3_WiFi_SD_Ensaios",
+  "versao": "3.0.0",
+  "formato_binario": "ADXL355_SD_V3",
+  "formato_csv": "ADXL355_S3_V1",
+  "firmware": "3.0.0",
+  "base_analises": "v2.0.0",
+  "python_validacao": "3.12.14",
+  "plataforma_validacao": "Linux-6.18.55-x86_64-with-glibc2.39"
+}

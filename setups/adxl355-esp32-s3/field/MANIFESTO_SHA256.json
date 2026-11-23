@@ -1,0 +1,721 @@
+{
+  "versao": "4.1.0",
+  "data": "2026-11-11",
+  "arquivos": [
+    {
+      "arquivo": "CHANGELOG.md",
+      "bytes": 1941,
+      "sha256": "ac185c6aa72e8b9e9930515c641d39e3448f6325fb84b471f8a12518e0c4dc35"
+    },
+    {
+      "arquivo": "README.md",
+      "bytes": 5350,
+      "sha256": "99e64055b7cae5f974efc14eeb4f9e9f6fec2376bf26ef2081b191fadc722db5"
+    },
+    {
+      "arquivo": "VERSAO.json",
+      "bytes": 553,
+      "sha256": "b9aed4e2bb230c3d69ff0b6fbd2c1694fe0848b78009c47b31146e819384247e"
+    },
+    {
+      "arquivo": "configuracoes/bancada/allan_4h.json",
+      "bytes": 329,
+      "sha256": "c101efe6bccd214a31997746e2c2ec52677eea6f9ef1eb690a3083ca61c0a98b"
+    },
+    {
+      "arquivo": "configuracoes/bancada/aquecimento_partida_frio.json",
+      "bytes": 334,
+      "sha256": "fc7e0fce9f7b1c9f82e601082c00fb81be648eb2205b1b878d8c0c9e4d91093d"
+    },
+    {
+      "arquivo": "configuracoes/bancada/calibracao_18_arquivos.json",
+      "bytes": 1922,
+      "sha256": "a03dc5197c84001c12a02a754edc324c24420df1e636c0619c4446a8a2c03648"
+    },
+    {
+      "arquivo": "configuracoes/bancada/dinamico_barra.json",
+      "bytes": 330,
+      "sha256": "2998447c7b695432bedf3682aabfb9bc4846eff59dbb5e2f413959ad06b9055b"
+    },
+    {
+      "arquivo": "configuracoes/bancada/funcional.json",
+      "bytes": 330,
+      "sha256": "38353dd927703b087ea5030559011cbe0ea79db8da4c686087f2e2893072b615"
+    },
+    {
+      "arquivo": "configuracoes/bancada/ruido_repetibilidade.json",
+      "bytes": 327,
+      "sha256": "6f7b8b71fed42dbde90c9b2eb425d9a721d85ae999f7c35dcd10c05ba9e78d2c"
+    },
+    {
+      "arquivo": "configuracoes/bancada/validacao_6_arquivos.json",
+      "bytes": 2042,
+      "sha256": "90f8fb1d55273d086827d8e29a73ca61a6f66c218a832c6b3ef2db1afc619ec3"
+    },
+    {
+      "arquivo": "configuracoes/bancada/validacao_wifi_ativo.json",
+      "bytes": 336,
+      "sha256": "67c11bf27e77c01b77e2c1563e563ae6f812fda4e782b92806b10b2fc05cf941"
+    },
+    {
+      "arquivo": "configuracoes/bancada/validacao_wifi_desligado.json",
+      "bytes": 340,
+      "sha256": "27976d1c2e49cf86505b0660f239fda4f4e16cdb3fcda31f369011a27f219a73"
+    },
+    {
+      "arquivo": "configuracoes/passarela_ambiente.json",
+      "bytes": 407,
+      "sha256": "51d2ed09e6d25f47709efa99f952735547da81a532b7ac5c75077d635f413d37"
+    },
+    {
+      "arquivo": "configuracoes/passarela_baixa_frequencia.json",
+      "bytes": 407,
+      "sha256": "28b05d7f80599679eb13394480ecbb9e2e87f4acadf5779d04eaf9d6d14723a7"
+    },
+    {
+      "arquivo": "configuracoes/passarela_ufpr_P01_20min.json",
+      "bytes": 417,
+      "sha256": "29c182b4ec47fa1b0baedd38d23b78da2a07fcca971b78e492cbf9960bcf68de"
+    },
+    {
+      "arquivo": "configuracoes/passarela_ufpr_P02_20min.json",
+      "bytes": 417,
+      "sha256": "db93848cfc67b6b9f0e86231af2e2ce08ee06005e81fc88c2a29759684a334a7"
+    },
+    {
+      "arquivo": "configuracoes/plano_passarela_ufpr_2p.json",
+      "bytes": 542,
+      "sha256": "5170f6afa81e450c45952693f19fe4fa66af458dd2e7fab8f5878bf9c4f6e094"
+    },
+    {
+      "arquivo": "configuracoes/ruido_antes_campanha.json",
+      "bytes": 406,
+      "sha256": "b0a08251b77a714d93b4a7f80e75b49200995ae2eaf0e5d148f8f1d949f48dc2"
+    },
+    {
+      "arquivo": "configuracoes/shaker_seno.json",
+      "bytes": 407,
+      "sha256": "47afaae1581ec85573de40596a82e2fb22ddac83bdc0d3373568e514f9d60af1"
+    },
+    {
+      "arquivo": "configuracoes/trelica_frf.json",
+      "bytes": 404,
+      "sha256": "6e6b7a2d80154171bc1ba0c4920f4f70475e3e235c86e82087f992b4b81e17fb"
+    },
+    {
+      "arquivo": "configuracoes/trelica_impacto.json",
+      "bytes": 403,
+      "sha256": "cc09285f4d0ba69f732737806e659dbb5d68f94dc419a413ee9b0df46d0107b4"
+    },
+    {
+      "arquivo": "dados/brutos/LEIA_ME.txt",
+      "bytes": 159,
+      "sha256": "1adc8d71c1cc8febf074edea2c48b3cf4fc97d588b82e8d219d725fac2467b47"
+    },
+    {
+      "arquivo": "dados/calibracao/LEIA_ME.txt",
+      "bytes": 145,
+      "sha256": "2ceaf8d58c568770c16a71ebb8fa9da1bec4d27592a14b8246ed3295ff0d7a19"
+    },
+    {
+      "arquivo": "dados/campanhas/LEIA_ME.txt",
+      "bytes": 148,
+      "sha256": "c57b4d84a8fc78fba186c97184022fcc8c49ff35862a07086966d99cfa3de1da"
+    },
+    {
+      "arquivo": "dados/processados/LEIA_ME.txt",
+      "bytes": 134,
+      "sha256": "262cfa3a4c7e00ef164102820975a31ab2fbbef2c2fcf3ec0b14d92e0b3e6822"
+    },
+    {
+      "arquivo": "dados/referencia/LEIA_ME.txt",
+      "bytes": 156,
+      "sha256": "fc9d85d2b8308069e4b4f53411ede765c95b271dbfdd150620d5d5a045b9910a"
+    },
+    {
+      "arquivo": "docs/API_E_FORMATO_BASE.md",
+      "bytes": 7940,
+      "sha256": "9c7ebcd3a6981394e3c8640a43f8ae501caf000352ff5536e85f5bd0d06fdb8f"
+    },
+    {
+      "arquivo": "docs/API_V4.md",
+      "bytes": 2692,
+      "sha256": "0a6fbb44606422c79de6ff0a26d614ca8141c11eb004c630314147d6121e8f9c"
+    },
+    {
+      "arquivo": "docs/BANCADA.md",
+      "bytes": 3790,
+      "sha256": "a2210ab62e3cfe580740e7216b50b6f7a459327b0418d595e26d11789bfab44f"
+    },
+    {
+      "arquivo": "docs/EXPLICACAO_DOS_CODIGOS.md",
+      "bytes": 7076,
+      "sha256": "ee6aef29b2c90c4d68c8e8eb9dfa8393b6f132dbfdd649442b6201a04691e153"
+    },
+    {
+      "arquivo": "docs/GUIA_CAMPO_PASSARELA_UFPR.md",
+      "bytes": 24498,
+      "sha256": "dbcef4803a0f0b99bc061b35c2e5091de3321d8576a8dff2e87a7b0c3a3156d7"
+    },
+    {
+      "arquivo": "docs/GUIA_COMPLETO.md",
+      "bytes": 42692,
+      "sha256": "216093dfbfa5be815c4dafe00e803074d2511e86bc5ac72b25f5460714fa3eb6"
+    },
+    {
+      "arquivo": "docs/METODOLOGIA_E_REFERENCIAS.md",
+      "bytes": 13592,
+      "sha256": "b960524ac0360ffe75b3056e22cbc25d5e5ffc51acfc0092b4c551e052adada4"
+    },
+    {
+      "arquivo": "docs/VALIDACAO.md",
+      "bytes": 867,
+      "sha256": "c9c3c4730097198c187a2d26a955fd8542c8cb7078ce6249075171aedd678577"
+    },
+    {
+      "arquivo": "docs/figuras/arquitetura.png",
+      "bytes": 114292,
+      "sha256": "6480c05d4d295100c95fcc7495941d10bdbd6540ff4c1630a0690b1909bfe273"
+    },
+    {
+      "arquivo": "docs/figuras/arquitetura.svg",
+      "bytes": 46448,
+      "sha256": "0a44f08e1b5758322f43eeb34c1c49a1b2d3af7a835d10f8125ff5932583569b"
+    },
+    {
+      "arquivo": "docs/figuras/fixacao_campo.png",
+      "bytes": 121365,
+      "sha256": "e038a215dcc8ebe85508e54ba047f1f609c09575b8004796fd81410f3449f2f9"
+    },
+    {
+      "arquivo": "docs/figuras/fixacao_campo.svg",
+      "bytes": 55376,
+      "sha256": "13bef4327d4d1e8f0caf58bb21e8689c406147db150b1269c528ff2e01bcda22"
+    },
+    {
+      "arquivo": "docs/figuras/passarela.png",
+      "bytes": 60376,
+      "sha256": "9815d7c7ad3058a32ca18130df0571d77107c02563de474dea7c017a8823c5d5"
+    },
+    {
+      "arquivo": "docs/figuras/passarela.svg",
+      "bytes": 37935,
+      "sha256": "f1928b377636c294d703084315113c25efd86598520351fbfde3073540eada66"
+    },
+    {
+      "arquivo": "docs/figuras/sequencia_passarela.png",
+      "bytes": 72987,
+      "sha256": "ad3f5f66daa88d671d724a2b1716aa7e7f8c7651de1d65001ae6abbd4337179c"
+    },
+    {
+      "arquivo": "docs/figuras/sequencia_passarela.svg",
+      "bytes": 34113,
+      "sha256": "1f9c91ef3b609d30d29144d67ccfff4b1bc0cf69e963d7a7c0f1d1cbe83dfd8d"
+    },
+    {
+      "arquivo": "docs/figuras/shaker.png",
+      "bytes": 76998,
+      "sha256": "0176708732cb8ddf15ac14233bacba30b3477eaf0771bd98240e594392168d9e"
+    },
+    {
+      "arquivo": "docs/figuras/shaker.svg",
+      "bytes": 38496,
+      "sha256": "8e2e8194627be318ed0c67a9e31e0e15d1fb0a4e9b08c35f770516f963ea9434"
+    },
+    {
+      "arquivo": "docs/figuras/trelica.png",
+      "bytes": 99785,
+      "sha256": "dca8e432a956505c5063144c113ae980bd2f565c6e87b253c179c7520ddaf230"
+    },
+    {
+      "arquivo": "docs/figuras/trelica.svg",
+      "bytes": 36662,
+      "sha256": "64e5af2639bc191067b853401e333ff661d95c9f9e49673db33115a42e902072"
+    },
+    {
+      "arquivo": "exemplos/LEIA_ME.md",
+      "bytes": 380,
+      "sha256": "56436a4a852b28dcd6180a30d7253c28a39e1aa2a33f0a0ecf3b3e17c6726088"
+    },
+    {
+      "arquivo": "ferramentas/compilar_arduino.ps1",
+      "bytes": 1003,
+      "sha256": "5b3db35871600cd762ab68e45b900476c473c246720cef4af081341b5968c986"
+    },
+    {
+      "arquivo": "ferramentas/executar_demonstracao.py",
+      "bytes": 2403,
+      "sha256": "eabe3cbc3ab4b415918826b0bcb4e01483785d507e3b1fb93a1792b7ab66a69f"
+    },
+    {
+      "arquivo": "ferramentas/gerar_esquemas.py",
+      "bytes": 6536,
+      "sha256": "45f00f68828441e61b509ed3cc79ac34ddfb276205303adf5aad20cc64b937a4"
+    },
+    {
+      "arquivo": "ferramentas/gerar_exemplos.py",
+      "bytes": 4087,
+      "sha256": "003782615e086c0920ff15420b46e8c59020559ab8b830a2c7b106b0ff208858"
+    },
+    {
+      "arquivo": "ferramentas/gerar_guia_campo.py",
+      "bytes": 673,
+      "sha256": "833656fe12a3cf1f00fffe853e43af771aa4ef73418a5a38cebb5e8507b0456c"
+    },
+    {
+      "arquivo": "ferramentas/gerar_guia_pdf.py",
+      "bytes": 6098,
+      "sha256": "6827782e55cbf32505c82d28e2fd4cc46074acd3c350dacc1036e76256f91af1"
+    },
+    {
+      "arquivo": "ferramentas/verificar_manifesto.py",
+      "bytes": 618,
+      "sha256": "a718497467ee8780f0c65f8c99465b28a2c8875c2ad06c144d17427d135fa52b"
+    },
+    {
+      "arquivo": "ferramentas/verificar_sintaxe_firmware.py",
+      "bytes": 834,
+      "sha256": "36965d0b47af17bc621edfd892440a20f9cd190c8644af0a599e70a9c1dc537f"
+    },
+    {
+      "arquivo": "fichas/bancada/aceite_hardware.csv",
+      "bytes": 423,
+      "sha256": "bd4ddf68eaec5d33c1d377a6118a56d45daf4cf973645f398c3a5a196c8b9648"
+    },
+    {
+      "arquivo": "fichas/bancada/ficha_ensaio.csv",
+      "bytes": 377,
+      "sha256": "4700e0e8b49e157ea4b23d1cce1529096d8ccba30a1b244e06e947bd7217faae"
+    },
+    {
+      "arquivo": "fichas/bancada/modelo_ficha.json",
+      "bytes": 1150,
+      "sha256": "3b2b19a4f5ce76746c08b92091c94cc16319c153a7069b59ee8d4f6d5cc44f54"
+    },
+    {
+      "arquivo": "fichas/bancada/orientacoes_calibracao.json",
+      "bytes": 1030,
+      "sha256": "776d00ab4672851bbb79bacd3bb49df8c781cd364138ef5fb9928996cb00f955"
+    },
+    {
+      "arquivo": "fichas/bancada/orientacoes_validacao.json",
+      "bytes": 1405,
+      "sha256": "4bdd448efe3e16703e5c65d8b80085206dfe4abcf4b02f289a3bd336a520ae6d"
+    },
+    {
+      "arquivo": "fichas/bancada/planejamento_ensaios.csv",
+      "bytes": 745,
+      "sha256": "6dab0e648bbccbd1dd9be3e47cdce373b29255eed4352f5ba029ebc8f55d275b"
+    },
+    {
+      "arquivo": "fichas/ficha_campanha.csv",
+      "bytes": 327,
+      "sha256": "0461f15f43cc4de06dfcb3d8dfa84c506bb5e14d04b7a251a5acd15ebcc527ff"
+    },
+    {
+      "arquivo": "fichas/impactos_MODELO.csv",
+      "bytes": 30,
+      "sha256": "4f0fbaf1a64e4ff2146943ac3f55a25c83204b6f69b1c8c620dfeb01d5dacad4"
+    },
+    {
+      "arquivo": "fichas/mapa_referencia.json",
+      "bytes": 570,
+      "sha256": "99cf8a033c04e31a036e947f021308468bd8ad3b80adcd995679cda9dbb84d87"
+    },
+    {
+      "arquivo": "fichas/mapa_referencia_com_forca.json",
+      "bytes": 712,
+      "sha256": "5fcddbc9afe9c65b133863be6e55681f4a400f69f4751d8b6c40b74f11a7f3a4"
+    },
+    {
+      "arquivo": "fichas/orientacoes_calibracao.json",
+      "bytes": 1030,
+      "sha256": "776d00ab4672851bbb79bacd3bb49df8c781cd364138ef5fb9928996cb00f955"
+    },
+    {
+      "arquivo": "fichas/orientacoes_validacao.json",
+      "bytes": 1405,
+      "sha256": "4bdd448efe3e16703e5c65d8b80085206dfe4abcf4b02f289a3bd336a520ae6d"
+    },
+    {
+      "arquivo": "fichas/pares_tempo_MODELO.csv",
+      "bytes": 24,
+      "sha256": "211c9e385fcc007eb19b7ff5fba3aaa131ec859ddfdaa1cd4e6468d697ea0dfc"
+    },
+    {
+      "arquivo": "fichas/passarela_ufpr_2p_MODELO.csv",
+      "bytes": 417,
+      "sha256": "9e3a05a5664d03e2588ae6344dc58f00203899d9059ba0ee2892dddb128e207c"
+    },
+    {
+      "arquivo": "fichas/planejamento_shaker.csv",
+      "bytes": 514,
+      "sha256": "3869252e3a5e9c22aef5b726049878aab72209b4f8823c56be307db1da9d9f1d"
+    },
+    {
+      "arquivo": "firmware/adxl355_wifi_sd/adxl355_wifi_sd.ino",
+      "bytes": 202,
+      "sha256": "7383178be5c4001ae2bd079969ae2152db36839183b64ad3f43bf1a72eba392d"
+    },
+    {
+      "arquivo": "firmware/adxl355_wifi_sd/config.h",
+      "bytes": 1581,
+      "sha256": "7d9b3079a25acb02b77a330b8bb722877af3e8282fe98f7ee5115ebb0976cb6d"
+    },
+    {
+      "arquivo": "firmware/adxl355_wifi_sd/format.h",
+      "bytes": 1668,
+      "sha256": "e46a5914d89ec02509801fa5677c29f3bca76f4329f39f5d4207b6ab4198421e"
+    },
+    {
+      "arquivo": "firmware/adxl355_wifi_sd/node.cpp",
+      "bytes": 39470,
+      "sha256": "316436c8e3f49d77bf8461eef32bb6dcfce8d578a0b6e47cad8d0e92bde4cf30"
+    },
+    {
+      "arquivo": "firmware/adxl355_wifi_sd/web_ui.h",
+      "bytes": 9093,
+      "sha256": "db30dc04f7838d8c38e010d0e42d122d498398fe2d888affac6f8e68471d6220"
+    },
+    {
+      "arquivo": "instalar_windows.ps1",
+      "bytes": 852,
+      "sha256": "1909ba5300331490a30a4579a2c2731979b45c9e42b57482765cced36276df05"
+    },
+    {
+      "arquivo": "python/00_controlar_no.py",
+      "bytes": 1693,
+      "sha256": "5ce668148e87f801db67a9d5ce8250ea3cb49e032277dbe0c22b887f566f9ac4"
+    },
+    {
+      "arquivo": "python/01_capturar.py",
+      "bytes": 144,
+      "sha256": "941f5e0bd3b397c0d6beffe63c479648909e291395a79f76faee047df8207556"
+    },
+    {
+      "arquivo": "python/01_capturar_wifi.py",
+      "bytes": 86,
+      "sha256": "07bcfa82a169ba44a6920a61f2b15553671fe3eaa9252acd5e9a3a29d09981cc"
+    },
+    {
+      "arquivo": "python/02_verificar_funcional.py",
+      "bytes": 77,
+      "sha256": "cee9d7787f42c46e5262bb4b3cdde7829485c98160b94855703d8f944b237ecd"
+    },
+    {
+      "arquivo": "python/03_calibrar_matriz_completa.py",
+      "bytes": 161,
+      "sha256": "4cef3953b7b476ec0592d93de234f62d5ef3df6b39ffaa0747d223b729b7303e"
+    },
+    {
+      "arquivo": "python/03_calibrar_seis_posicoes.py",
+      "bytes": 78,
+      "sha256": "e79d767d15fcb2ae6df62659b301b6d3d05a9cf4ea41ae2329c183f0b4215203"
+    },
+    {
+      "arquivo": "python/04_analisar_ruido_psd.py",
+      "bytes": 73,
+      "sha256": "a780492df8486bbb2c3e187e26675e1dd603bc3b694852b97f648a0c9d52c6cf"
+    },
+    {
+      "arquivo": "python/05_analisar_temporizacao.py",
+      "bytes": 73,
+      "sha256": "2bb89434b8ce939a0adff3545f60f9a15ece82e7005f7ffa20fd2f9b26e2beab"
+    },
+    {
+      "arquivo": "python/06_analisar_repetibilidade.py",
+      "bytes": 82,
+      "sha256": "331274cd7d70fd0c7f9b357ea0ed435c76ff484f1af857db4758909789609cd7"
+    },
+    {
+      "arquivo": "python/07_analisar_deriva_aquecimento.py",
+      "bytes": 75,
+      "sha256": "15164125ed77b9496cb4d31e31225ec97770985a343590d9236f0a9804834f7e"
+    },
+    {
+      "arquivo": "python/07_analisar_deriva_termica.py",
+      "bytes": 75,
+      "sha256": "15164125ed77b9496cb4d31e31225ec97770985a343590d9236f0a9804834f7e"
+    },
+    {
+      "arquivo": "python/08_analisar_dinamico.py",
+      "bytes": 76,
+      "sha256": "a293af79086f92813b096737dc45755c3dca6f9e26d34d7880d18fc4310d1129"
+    },
+    {
+      "arquivo": "python/09_desvio_allan.py",
+      "bytes": 73,
+      "sha256": "0f13409f433b60030a04650f78534931205bb98f4e1301e47269c24fbf6bd480"
+    },
+    {
+      "arquivo": "python/10_gerar_resumo.py",
+      "bytes": 74,
+      "sha256": "cec788865e83ee45103a9a1f9dbee632d5a78a4625a9c562190957d0f09d360e"
+    },
+    {
+      "arquivo": "python/11_validar_calibracao.py",
+      "bytes": 155,
+      "sha256": "24c4f96bfc693ca58aa3ba2f4aba5c564a9a623cb71e582dc9d307e6999ccca7"
+    },
+    {
+      "arquivo": "python/12_exportar_corrigido.py",
+      "bytes": 153,
+      "sha256": "046917b7590b0d76865024cdbf265a1fd1b6bca229fcb72f94320e31ddd209df"
+    },
+    {
+      "arquivo": "python/13_baixar_dados.py",
+      "bytes": 1399,
+      "sha256": "21c224cd80031d2a7ab88377bd408c09a0383417587c9c7a61e0de63137f5ac1"
+    },
+    {
+      "arquivo": "python/14_converter_binario.py",
+      "bytes": 1728,
+      "sha256": "35d59bac67fe63dc5bcdaae005844e2414bd2061f2e171342a0e49450ca880ac"
+    },
+    {
+      "arquivo": "python/15_validar_armazenamento_wifi.py",
+      "bytes": 2178,
+      "sha256": "2392b52385874b997b80f4b35e28b7d59d0c5aede5df69d6143e5f06d7017420"
+    },
+    {
+      "arquivo": "python/16_executar_roteiro.py",
+      "bytes": 1687,
+      "sha256": "977a1d95bd8ed121829c2a4d084b28d5f2b1b19554bce313cea9533be269cdd6"
+    },
+    {
+      "arquivo": "python/17_controlar_campanha.py",
+      "bytes": 2922,
+      "sha256": "1f851869cc656e993af66b1e1392d5860c9cd839223484c00998c4a1d051416e"
+    },
+    {
+      "arquivo": "python/18_importar_referencia.py",
+      "bytes": 3706,
+      "sha256": "22bc5a4acdcc778c2f973eec260780dc20771cfe2c09b485e5bad039243f24a2"
+    },
+    {
+      "arquivo": "python/19_ajustar_tempo.py",
+      "bytes": 3030,
+      "sha256": "c5bab4fd08b44322288a094a7691a455925435c047ae5873dd2f9571b38c8448"
+    },
+    {
+      "arquivo": "python/20_analisar_shaker.py",
+      "bytes": 90,
+      "sha256": "5f69d7845df46729f5bfddc8ee40bb8dd845065f3954f127fcf2cb2e353747f6"
+    },
+    {
+      "arquivo": "python/21_comparar_trelica.py",
+      "bytes": 92,
+      "sha256": "6d5884c9bebe8b475bf9800ead52709b07c19662af3f9650b274b735fb058e5f"
+    },
+    {
+      "arquivo": "python/22_identificar_passarela.py",
+      "bytes": 90,
+      "sha256": "1580176abab45082c2cf648729b20123f0ec38e6a7db49fa31d0f6350ba9171f"
+    },
+    {
+      "arquivo": "python/23_consolidar_frequencias.py",
+      "bytes": 3423,
+      "sha256": "8ea304aeac0d96de6358c6541f3cf8639e428d3c10789996b2c6a1e6a35a0209"
+    },
+    {
+      "arquivo": "python/24_resumir_shaker.py",
+      "bytes": 2166,
+      "sha256": "9e328598a973394152ccb8810797fd424cd49ccdbb6d573afbb35d8863c3c831"
+    },
+    {
+      "arquivo": "python/25_extrair_marcas.py",
+      "bytes": 1127,
+      "sha256": "a58af3e631fd17805d1d217acaffa02b146148f6c1c95c504a46bc419a6d5619"
+    },
+    {
+      "arquivo": "python/26_analisar_frf_martelo.py",
+      "bytes": 1589,
+      "sha256": "8a002825c28566955f27cb60a8cfe9a101a8fb88061f2612c6f478e1c94fad46"
+    },
+    {
+      "arquivo": "python/27_passarela_ufpr.py",
+      "bytes": 89,
+      "sha256": "f8d0b3348623e8ae90b68630f78938eb8e666ad47f11d342ed9d845fb0fd2abb"
+    },
+    {
+      "arquivo": "python/analises.py",
+      "bytes": 21137,
+      "sha256": "8d0bc9ebb83580ad041082c47f6e31325e485dba936ef0b5085aa3a62e2b3ba7"
+    },
+    {
+      "arquivo": "python/calibracao_completa.py",
+      "bytes": 16342,
+      "sha256": "51ad9b4795dad7623bed15d7af2c1eba2378f03006811f8b1be54e9b446d8e4a"
+    },
+    {
+      "arquivo": "python/campo.py",
+      "bytes": 10976,
+      "sha256": "a4fc89cc398e898fca90e78922213d30beeb3548860c54256bfbd9163651b816"
+    },
+    {
+      "arquivo": "python/captura_wifi.py",
+      "bytes": 2534,
+      "sha256": "4d97a8058e24ffc7216f0106361b6c335217b6a7dc6e51f03b9d19f403622a62"
+    },
+    {
+      "arquivo": "python/cli_campo.py",
+      "bytes": 4491,
+      "sha256": "32ab309dfa9a48cd13008b1fd2f4b41dfb105d1db9a43fbb6665811049d5c7aa"
+    },
+    {
+      "arquivo": "python/cliente_wifi.py",
+      "bytes": 11459,
+      "sha256": "d60f6e579609d07a1259100d49723b42a23fe536f41e935e16d83f9ea6b7d46e"
+    },
+    {
+      "arquivo": "python/comum.py",
+      "bytes": 10548,
+      "sha256": "b92187fdde4d607c813a1ade4ef13031887633125a4fc80d19ad81303035b4da"
+    },
+    {
+      "arquivo": "python/formato_sd.py",
+      "bytes": 14842,
+      "sha256": "a61c3907764df921bbbfe4b7362e17b8f21aa7dbb4fd1a9e216cf6cd26a43271"
+    },
+    {
+      "arquivo": "python/frf_impacto.py",
+      "bytes": 5413,
+      "sha256": "b454cc3fc3eb6e933a4748f9625d1535cead9a48f7b99b77c31970d1b645088d"
+    },
+    {
+      "arquivo": "python/metodos_campo.py",
+      "bytes": 13658,
+      "sha256": "9a56b85a8ebbee27355838a68c538e27c3019d19185141e47e108f85c7db034f"
+    },
+    {
+      "arquivo": "python/modelos_calibracao.py",
+      "bytes": 4203,
+      "sha256": "64524c1d57a6b532f149000f462430f084db1ecd9646c1a9de233d079fdf8b1b"
+    },
+    {
+      "arquivo": "python/passarela_ufpr.py",
+      "bytes": 22051,
+      "sha256": "18603b1450e73c98cdc72896447a8ad6e6e0188e4391d23761c3877b68f99e42"
+    },
+    {
+      "arquivo": "requirements-documentacao.txt",
+      "bytes": 36,
+      "sha256": "b6dc8c3d290a017b04a26c6a9f730a97e860ef760deb103b73586ea32a541817"
+    },
+    {
+      "arquivo": "requirements.txt",
+      "bytes": 227,
+      "sha256": "841653b8738ceaacda34b101e88ada1d9de0e139b1ac240e35047a671f772cb0"
+    },
+    {
+      "arquivo": "tests/fabrica_sd.py",
+      "bytes": 2666,
+      "sha256": "486bb7279f114f54a9e4b38547b13c43c1947349631de1276828f7d97c485b47"
+    },
+    {
+      "arquivo": "tests/native_format.cpp",
+      "bytes": 1408,
+      "sha256": "65bf203c1a68a87b52d9affbbfe3c48d568eeba223c9410da54581c8e1c583a8"
+    },
+    {
+      "arquivo": "tests/native_metadata.cpp",
+      "bytes": 798,
+      "sha256": "88e354e20f2fd3bffb342d60f1f70ef55d4c587a1fa2f7273be128f4bd24899e"
+    },
+    {
+      "arquivo": "tests/native_stubs/Arduino.h",
+      "bytes": 2447,
+      "sha256": "1b1169e22b266b921a06d0a71c29f4d9c14dcbb6423563b66350b56faf263b67"
+    },
+    {
+      "arquivo": "tests/native_stubs/Preferences.h",
+      "bytes": 441,
+      "sha256": "4e489414fb89348d2bbff120d74336b6380322ac9befc0ad0b27a82ea3578ee3"
+    },
+    {
+      "arquivo": "tests/native_stubs/SD.h",
+      "bytes": 913,
+      "sha256": "45a28830707ef5023221b54f7edea4102836288f5ff5a6eabd015e97fcc36f99"
+    },
+    {
+      "arquivo": "tests/native_stubs/SPI.h",
+      "bytes": 314,
+      "sha256": "03bfd0ebe6eb6948e76cc9cbc8c684685cc764b47626769a581a920926ff25a7"
+    },
+    {
+      "arquivo": "tests/native_stubs/WebServer.h",
+      "bytes": 487,
+      "sha256": "d5c5c3ef300d7beb78c4ce370dea9101cdbca7411a6dbb842d58761c9defc016"
+    },
+    {
+      "arquivo": "tests/native_stubs/WiFi.h",
+      "bytes": 466,
+      "sha256": "12d5504019d475ba1b4b4506bbd452d6f8ef86f19ad61cfd9ebf114174c38901"
+    },
+    {
+      "arquivo": "tests/native_stubs/esp_system.h",
+      "bytes": 73,
+      "sha256": "a299050404e3766ec76e1d995e0db2174a85b1647e579df25a8c12c984aef60b"
+    },
+    {
+      "arquivo": "tests/native_stubs/esp_timer.h",
+      "bytes": 80,
+      "sha256": "c0df4d706820441ce19956db8dd26e9dc98c4e60fdb860be6567ecd1601a6d74"
+    },
+    {
+      "arquivo": "tests/native_stubs/freertos/FreeRTOS.h",
+      "bytes": 514,
+      "sha256": "5959e50145ae248257176b96670dd99419b6aff383b1e291927a37adcd67417a"
+    },
+    {
+      "arquivo": "tests/native_stubs/freertos/queue.h",
+      "bytes": 391,
+      "sha256": "7f68e99150a5624f0d881a95330fc5882f78a91e2b9e31bed80bc858d0bcb3ff"
+    },
+    {
+      "arquivo": "tests/native_stubs/freertos/task.h",
+      "bytes": 372,
+      "sha256": "d5ca1f5e3b79f98abd086ea5ff7735a159e31cf923e9bc832b08e9816d2da20f"
+    },
+    {
+      "arquivo": "tests/native_stubs/mbedtls/sha256.h",
+      "bytes": 445,
+      "sha256": "5169ed2c78a2f9aad966bf3145755b715c19fbe1827b8f05382ea02eea2def46"
+    },
+    {
+      "arquivo": "tests/test_campo.py",
+      "bytes": 7516,
+      "sha256": "95099bad07d1108666e7536d2015f51d8b523d01f7b938f0e83f7a90e1003834"
+    },
+    {
+      "arquivo": "tests/test_codec.cpp",
+      "bytes": 405,
+      "sha256": "289c51d77bf56dcb031203ba69bc683d490554edc8bb7886678c77d993a59b39"
+    },
+    {
+      "arquivo": "tests/test_fluxo.py",
+      "bytes": 4391,
+      "sha256": "211a4d3ddec051e0239f2207dafd1a916eea6012aac337fb007d1fb478ad6ecf"
+    },
+    {
+      "arquivo": "tests/test_matriz.py",
+      "bytes": 8912,
+      "sha256": "1a9159902639f0fdc6d9b4118c1b82a9961326af663d33cad13ddda2dd299f34"
+    },
+    {
+      "arquivo": "tests/test_numerico.py",
+      "bytes": 2317,
+      "sha256": "eef5d75a4541461621e2a6ea12982b1eeec1447c034c217d51eede1d1bb33212"
+    },
+    {
+      "arquivo": "tests/test_passarela_ufpr.py",
+      "bytes": 9507,
+      "sha256": "70b49dc8ce44831371f98f400a06393419c4cc5b1699235e827387b978ff69b4"
+    },
+    {
+      "arquivo": "tests/test_sd_wifi.py",
+      "bytes": 11124,
+      "sha256": "64ddf29ed6f649548c70e7aa37807d665f906d764f3b821e6ec8d2b7d72bf32c"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# Opcional: somente para regenerar o PDF com ferramentas/gerar_guia_pdf.py.
+# Nao e necessario para ler o guia, capturar ou analisar dados.
+reportlab>=4,<5
+Pillow>=10,<13

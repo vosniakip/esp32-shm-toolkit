@@ -1,0 +1,1 @@
+campanha,data_hora,operador,local,ponto,condicao,eixo_estrutura_X,eixo_estrutura_Y,eixo_estrutura_Z,sensor_id,montagem_id,calibracao_arquivo_sha256,referencia_modelo,referencia_serie,certificado,daq_modelo,fs_daq_hz,filtro_daq,massa_no_g,fixacao_no,fixacao_ref,temperatura_ambiente_c,trafego,run_id,csv_no,csv_ref,observacoes

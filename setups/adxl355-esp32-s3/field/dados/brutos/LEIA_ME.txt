@@ -1,0 +1,1 @@
+Guarde aqui os registros originais do nó. Mantenha o arquivo de dados e os metadados JSON juntos. Os exemplos sintéticos ficam na pasta exemplos/ do pacote.

@@ -1,0 +1,12 @@
+﻿arquivo_stl;quantidade;projeto_3mf;observacao
+01_caixa_compacta_shield_vertical.stl;1;01_Caixa_v010_A1_PLA.3mf;"100% em Z=0-6; 35% acima de 6 mm"
+02_tampa_compacta.stl;1;02_Tampa_v010_A1_PLA.3mf;"Face externa sobre a mesa; guia para cima; 35%"
+06_calibre_furos_24_34.stl;1;03_Gabaritos_v09_A1_PLA.3mf;Conferir M2 e M3
+07_gabarito_placa_80x60.stl;1;03_Gabaritos_v09_A1_PLA.3mf;Opcional: medidas preservadas
+08_gabarito_shield_100x29_usb6_M3.stl;1;03_Gabaritos_v09_A1_PLA.3mf;"Shield M3: passagem 3.4 mm; centros 95 x 24 mm; USB +6 mm"
+10_arruela_isoladora_04mm.stl;4;04_Auxiliares_v09_A1_PLA.3mf;Somente PCB principal: M2, furo 2.4, externo 5, espessura 0.4 mm
+12_calibre_porcas_43_56.stl;1;03_Gabaritos_v09_A1_PLA.3mf;"M2 4.3; M3 5.6 mm AF"
+14_cupom_adesivo_40x30x6.stl;1;04_Auxiliares_v09_A1_PLA.3mf;Teste no substrato real
+15_empurrador_M2_4p0mm.stl;1;04_Auxiliares_v09_A1_PLA.3mf;Macico
+16_empurrador_M3_5p3mm.stl;1;04_Auxiliares_v09_A1_PLA.3mf;"Macico; porcas M3 do shield e da tampa"
+11_arruela_M3_shield_04mm.stl;4;04_Auxiliares_v09_A1_PLA.3mf;Somente shield: M3, furo 3.4, externo 6, espessura 0.4 mm

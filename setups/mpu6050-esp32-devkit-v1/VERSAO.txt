@@ -1,0 +1,10 @@
+MPU6050_ESP32_Ensaios 1.0.1
+Criado em 2026-08-28; atualizado em 2026-09-02
+
+Firmware: aquisicao a 250 Hz, +/-2 g, DLPF aproximado de 94 Hz,
+Data Ready no GPIO27, I2C a 400 kHz e Serial a 460800 baud.
+
+Conversao nominal de temperatura: temp_raw / 340 + 36,53 graus Celsius.
+
+Correcao 1.0.1: cada analise dinamica recebe uma pasta exclusiva com data,
+hora e identificacao da entrada, evitando sobrescrita de resultados.

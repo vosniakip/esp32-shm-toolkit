@@ -1,0 +1,19 @@
+{
+  "formato": "orientacoes_conjunto_v1",
+  "referencial": "conjunto",
+  "descricao_eixos": {
+    "x": "Xn: primeira direcao marcada na base do conjunto",
+    "y": "Yn: direcao perpendicular a Xn no plano da base",
+    "z": "Zn: normal positiva a base, completando um referencial de mao direita"
+  },
+  "origem_referencia": "Faces ortogonais do gabarito, niveladas; verificar fisicamente antes de usar.",
+  "observacao": "A seta positiva do conjunto para cima corresponde a +1 g em repouso. A inclinacao do sensor em relacao a base permanece fixa.",
+  "orientacoes": {
+    "xpos": {"direcao": [1, 0, 0], "descricao": "+Xn vertical para cima"},
+    "xneg": {"direcao": [-1, 0, 0], "descricao": "+Xn vertical para baixo"},
+    "ypos": {"direcao": [0, 1, 0], "descricao": "+Yn vertical para cima"},
+    "yneg": {"direcao": [0, -1, 0], "descricao": "+Yn vertical para baixo"},
+    "zpos": {"direcao": [0, 0, 1], "descricao": "+Zn vertical para cima"},
+    "zneg": {"direcao": [0, 0, -1], "descricao": "+Zn vertical para baixo"}
+  }
+}

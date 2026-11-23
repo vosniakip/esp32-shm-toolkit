@@ -1,0 +1,1 @@
+Guarde aqui os ajustes de calibração e os JSONs correspondentes. Preserve a versão aplicada a cada campanha para poder reproduzir a análise.

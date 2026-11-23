@@ -1,0 +1,17 @@
+{
+  "sensor": "adxl355-01",
+  "montagem": "pcb-inclinada-v1",
+  "referencial": "conjunto",
+  "taxa": 500,
+  "faixa": 2,
+  "repeticao": 1,
+  "repeticoes": 5,
+  "atraso_s": 5,
+  "intervalo_s": 10,
+  "radio": "ativo",
+  "calibracao_id": "nao-aplicada",
+  "nota": "",
+  "ensaio": "validacao_wifi",
+  "posicao": "zpos",
+  "duracao_s": 120
+}

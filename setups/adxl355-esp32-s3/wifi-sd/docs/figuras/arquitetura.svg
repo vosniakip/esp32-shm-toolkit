@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="500" height="245" preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 245" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="500" height="245"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-245)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="5" y="177" width="145" height="48" rx="6" ry="6" style="stroke: rgb(78%,85%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="21.68212890625" y="205.0" style="font-family: BookBold; font-size: 10px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,410) scale(1,-1)">Navegador / Python</text>
+			<text x="37.751953125" y="189.0" style="font-family: Book; font-size: 8px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,378) scale(1,-1)">Comandos e estado</text>
+			<rect x="205" y="177" width="145" height="48" rx="6" ry="6" style="stroke: rgb(78%,85%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="235.94970703125" y="205.0" style="font-family: BookBold; font-size: 10px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,410) scale(1,-1)">Controle do nó</text>
+			<text x="256.6015625" y="189.0" style="font-family: Book; font-size: 8px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,378) scale(1,-1)">HTTP local</text>
+			<path d="M 150,201 L 205,201 Z" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="205 201, 200.0197 204.3461, 200.0197 197.6539" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,34%,47%); fill-rule: evenodd;"/>
+			<rect x="5" y="94" width="102" height="48" rx="6" ry="6" style="stroke: rgb(78%,85%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="30.501953125" y="122.0" style="font-family: BookBold; font-size: 10px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,244) scale(1,-1)">ADXL355</text>
+			<text x="29.79296875" y="106.0" style="font-family: Book; font-size: 8px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,212) scale(1,-1)">FIFO + DRDY</text>
+			<rect x="138" y="94" width="100" height="48" rx="6" ry="6" style="stroke: rgb(78%,85%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="160.81494140625" y="122.0" style="font-family: BookBold; font-size: 10px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,244) scale(1,-1)">Aquisição</text>
+			<text x="158.78515625" y="106.0" style="font-family: Book; font-size: 8px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,212) scale(1,-1)">Prioridade alta</text>
+			<rect x="269" y="94" width="100" height="48" rx="6" ry="6" style="stroke: rgb(78%,85%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="306.3046875" y="122.0" style="font-family: BookBold; font-size: 10px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,244) scale(1,-1)">RAM</text>
+			<text x="285.85546875" y="106.0" style="font-family: Book; font-size: 8px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,212) scale(1,-1)">Fila de amostras</text>
+			<rect x="400" y="94" width="95" height="48" rx="6" ry="6" style="stroke: rgb(78%,85%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="423.9599609375" y="122.0" style="font-family: BookBold; font-size: 10px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,244) scale(1,-1)">microSD</text>
+			<text x="406.66015625" y="106.0" style="font-family: Book; font-size: 8px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,212) scale(1,-1)">Gravação em blocos</text>
+			<path d="M 107,118 L 138,118 Z" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="138 118, 133.0197 121.3461, 133.0197 114.6539" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,34%,47%); fill-rule: evenodd;"/>
+			<path d="M 238,118 L 269,118 Z" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="269 118, 264.0197 121.3461, 264.0197 114.6539" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,34%,47%); fill-rule: evenodd;"/>
+			<path d="M 369,118 L 400,118 Z" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="400 118, 395.0197 121.3461, 395.0197 114.6539" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,34%,47%); fill-rule: evenodd;"/>
+			<path d="M 245,177 L 195,142 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="195 142, 200.9989 142.1148, 197.1612 147.5973" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,51%); fill-rule: evenodd;"/>
+			<rect x="274" y="8" width="221" height="48" rx="6" ry="6" style="stroke: rgb(78%,85%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="318.08642578125" y="36.0" style="font-family: BookBold; font-size: 10px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,72) scale(1,-1)">Transferência posterior</text>
+			<text x="320.322265625" y="20.0" style="font-family: Book; font-size: 8px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,40) scale(1,-1)">Arquivo completo + integridade</text>
+			<path d="M 448,94 L 448,56 Z" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="448 56, 451.3461 60.98032, 444.6539 60.98032" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,34%,47%); fill-rule: evenodd;"/>
+			<rect x="5" y="8" width="221" height="48" rx="6" ry="6" style="stroke: rgb(78%,85%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="80.802734375" y="36.0" style="font-family: BookBold; font-size: 10px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,72) scale(1,-1)">Computador</text>
+			<text x="62.990234375" y="20.0" style="font-family: Book; font-size: 8px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,40) scale(1,-1)">CSV, calibração e análises</text>
+			<path d="M 274,32 L 226,32 Z" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="226 32, 230.9803 28.6539, 230.9803 35.3461" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,34%,47%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><marker id="blue" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9" fill="#2463a0"/></marker><marker id="green" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9" fill="#258261"/></marker></defs>
+<rect width="1200" height="630" fill="#f5f7fa"/>
+<g font-family="DejaVu Sans, sans-serif" fill="#17283c"><text x="38" y="43" font-size="25" font-weight="bold">Calibrar em relação à base do conjunto</text><text x="38" y="72" font-size="16">A inclinação sensor/base permanece fixa em todas as posições.</text>
+<rect x="30" y="97" width="550" height="427" rx="14" fill="white" stroke="#cfd8e3"/>
+<rect x="600" y="97" width="570" height="427" rx="14" fill="white" stroke="#cfd8e3"/>
+<text x="53" y="128" font-size="19" font-weight="bold">Vista lateral — plano Xn/Zn</text>
+<line x1="88" y1="397" x2="520" y2="397" stroke="#2463a0" stroke-width="3" marker-end="url(#blue)"/>
+<text x="499" y="432" font-size="17" fill="#2463a0">+Xn</text>
+<line x1="88" y1="397" x2="88" y2="171" stroke="#2463a0" stroke-width="3" marker-end="url(#blue)"/>
+<text x="105" y="190" font-size="17" fill="#2463a0">+Zn</text>
+<rect x="106" y="377" width="390" height="17" fill="#99aec3"/>
+<text x="136" y="432" font-size="16">Base de instalação nivelada</text>
+<rect x="130" y="337" width="115" height="37" rx="4" fill="#324559"/>
+<text x="151" y="361" font-size="16" fill="white">ESP32-S3</text>
+<path d="M279 377 L279 302 L298 298 L298 377 Z" fill="#d0dae5" stroke="#8aa0b7"/>
+<path d="M428 377 L428 272 L447 268 L447 377 Z" fill="#d0dae5" stroke="#8aa0b7"/>
+<path d="M262 303 L463 261 L466 274 L265 316 Z" fill="#53a88a" stroke="#258261" stroke-width="2"/>
+<rect x="348" y="266" width="54" height="27" rx="3" transform="rotate(-12 375 280)" fill="#258261"/>
+<text x="172" y="235" font-size="17" fill="#258261">ADXL355 inclinado</text>
+<line x1="374" y1="290" x2="485" y2="266" stroke="#258261" stroke-width="2.5" marker-end="url(#green)"/>
+<text x="465" y="245" font-size="14" fill="#258261">+X sensor</text>
+<line x1="374" y1="290" x2="354" y2="193" stroke="#258261" stroke-width="2.5" marker-end="url(#green)"/>
+<text x="367" y="178" font-size="14" fill="#258261">+Z sensor</text>
+<text x="159" y="475" font-size="15">Apoios rígidos: a relação entre</text><text x="159" y="497" font-size="15">sensor e base precisa ser constante.</text>
+<text x="624" y="128" font-size="19" font-weight="bold">Vista de cima — marcar Xn e Yn</text>
+<rect x="689" y="241" width="337" height="147" rx="6" fill="#eaf0f6" stroke="#8aa0b7" stroke-width="2"/>
+<rect x="894" y="282" width="86" height="49" rx="3" fill="#53a88a"/>
+<text x="897" y="355" font-size="14">sensor</text>
+<rect x="811" y="282" width="54" height="76" rx="4" fill="#324559"/>
+<circle cx="765" cy="315" r="8" fill="white" stroke="#2463a0" stroke-width="2"/><circle cx="765" cy="315" r="2.5" fill="#2463a0"/>
+<line x1="778" y1="315" x2="1112" y2="315" stroke="#2463a0" stroke-width="3" marker-end="url(#blue)"/>
+<text x="1090" y="345" font-size="17" fill="#2463a0">+Xn</text>
+<line x1="765" y1="302" x2="765" y2="170" stroke="#2463a0" stroke-width="3" marker-end="url(#blue)"/>
+<text x="784" y="184" font-size="17" fill="#2463a0">+Yn</text>
+<text x="629" y="435" font-size="15">O círculo com ponto indica +Zn para fora</text>
+<text x="629" y="457" font-size="15">da página, formando um sistema de mão direita.</text>
+<text x="629" y="495" font-size="15">As referências são as setas azuis da base.</text>
+<text x="38" y="570" font-size="18" font-weight="bold" fill="#2463a0">Oriente o conjunto inteiro pelo gabarito; mantenha a fixação do sensor.</text>
+<text x="38" y="601" font-size="14">Esquema sem escala. Ângulo, dimensões e disposição não representam medidas da sua montagem.</text></g></svg>

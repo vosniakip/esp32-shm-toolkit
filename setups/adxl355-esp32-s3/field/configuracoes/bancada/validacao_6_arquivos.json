@@ -1,0 +1,73 @@
+{
+  "schema": "roteiro_adxl355_v3",
+  "padrao": {
+    "sensor": "adxl355-01",
+    "montagem": "pcb-inclinada-v1",
+    "referencial": "conjunto",
+    "taxa": 500,
+    "faixa": 2,
+    "repeticao": 1,
+    "repeticoes": 1,
+    "atraso_s": 5,
+    "intervalo_s": 10,
+    "radio": "ativo",
+    "calibracao_id": "nao-aplicada",
+    "nota": ""
+  },
+  "etapas": [
+    {
+      "instrucao": "Xn e Yn dividem igualmente a componente positiva; Zn horizontal; apoie o conjunto em gabarito verificado e aguarde estabilizar.",
+      "parametros": {
+        "ensaio": "validacao",
+        "posicao": "xypos",
+        "duracao_s": 60,
+        "repeticoes": 1
+      }
+    },
+    {
+      "instrucao": "Posicao oposta a xypos; apoie o conjunto em gabarito verificado e aguarde estabilizar.",
+      "parametros": {
+        "ensaio": "validacao",
+        "posicao": "xyneg",
+        "duracao_s": 60,
+        "repeticoes": 1
+      }
+    },
+    {
+      "instrucao": "Xn e Zn dividem igualmente a componente positiva; Yn horizontal; apoie o conjunto em gabarito verificado e aguarde estabilizar.",
+      "parametros": {
+        "ensaio": "validacao",
+        "posicao": "xzpos",
+        "duracao_s": 60,
+        "repeticoes": 1
+      }
+    },
+    {
+      "instrucao": "Posicao oposta a xzpos; apoie o conjunto em gabarito verificado e aguarde estabilizar.",
+      "parametros": {
+        "ensaio": "validacao",
+        "posicao": "xzneg",
+        "duracao_s": 60,
+        "repeticoes": 1
+      }
+    },
+    {
+      "instrucao": "Yn e Zn dividem igualmente a componente positiva; Xn horizontal; apoie o conjunto em gabarito verificado e aguarde estabilizar.",
+      "parametros": {
+        "ensaio": "validacao",
+        "posicao": "yzpos",
+        "duracao_s": 60,
+        "repeticoes": 1
+      }
+    },
+    {
+      "instrucao": "Posicao oposta a yzpos; apoie o conjunto em gabarito verificado e aguarde estabilizar.",
+      "parametros": {
+        "ensaio": "validacao",
+        "posicao": "yzneg",
+        "duracao_s": 60,
+        "repeticoes": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Guarde aqui as exportações originais do instrumento de referência e os metadados usados na importação. Os sinais de demonstração ficam em exemplos/.

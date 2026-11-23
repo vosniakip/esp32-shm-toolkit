@@ -1,0 +1,1 @@
+Guarde aqui os resultados de cada calibração. Mantenha a versão do JSON usada em cada análise e preserve os ajustes anteriores.

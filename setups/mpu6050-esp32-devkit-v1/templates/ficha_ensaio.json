@@ -1,0 +1,23 @@
+{
+  "sensor": "MPU6050-01",
+  "esp32": "ESP32-DevKit-V1-01",
+  "operador": "",
+  "data": "AAAA-MM-DD",
+  "local": "",
+  "ensaio": "",
+  "posicao": "",
+  "repeticao": 1,
+  "duracao_s": 120,
+  "fs_nominal_hz": 250,
+  "faixa_g": 2,
+  "dlpf_hz_aproximado": 94,
+  "tempo_aquecimento_min": 20,
+  "temperatura_ambiente_c": null,
+  "fixacao": "",
+  "orientacao_eixos": "",
+  "excitacao": "",
+  "observacoes_antes": "",
+  "ocorrencias_durante": "",
+  "observacoes_depois": ""
+}
+

@@ -1,0 +1,25 @@
+{
+  "estrutura": "Passarela UFPR Botanico - Centro Politecnico",
+  "versao": "4.1.0",
+  "arranjo": "Um no em aquisicoes sucessivas",
+  "pontos": [
+    {
+      "id": "P01",
+      "vao": "A-B",
+      "fracao": 0.5,
+      "duracao_s": 1200,
+      "repeticoes": 1
+    },
+    {
+      "id": "P02",
+      "vao": "B-C",
+      "fracao": 0.5,
+      "duracao_s": 1200,
+      "repeticoes": 1
+    }
+  ],
+  "tempo_total_dados_s": 2400,
+  "geometria_a_medir_em_campo": true,
+  "forma_modal_espacial": false,
+  "controlador": "python/27_passarela_ufpr.py"
+}

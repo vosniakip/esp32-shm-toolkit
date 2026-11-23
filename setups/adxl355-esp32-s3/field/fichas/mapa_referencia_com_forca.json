@@ -1,0 +1,32 @@
+{
+  "schema": "MAPA_REFERENCIA_V1",
+  "instrumento_modelo": "PREENCHER",
+  "numero_serie": "PREENCHER",
+  "daq_modelo": "PREENCHER",
+  "certificado": null,
+  "condicionamento": "PREENCHER: tipo de sensor e configuracao da DAQ",
+  "g_ms2": 9.80665,
+  "separador": ",",
+  "decimal": ".",
+  "encoding": "utf-8-sig",
+  "linhas_ignorar": 0,
+  "tempo_coluna": "Time",
+  "tempo_unidade": "s",
+  "fs_hz": null,
+  "canais": {
+    "z": {
+      "coluna": "Acceleration",
+      "unidade": "m/s2",
+      "sinal": 1,
+      "offset_entrada": 0,
+      "limite_abs_si": null
+    },
+    "force": {
+      "coluna": "Force",
+      "unidade": "N",
+      "sinal": 1,
+      "offset_entrada": 0,
+      "limite_abs_si": null
+    }
+  }
+}

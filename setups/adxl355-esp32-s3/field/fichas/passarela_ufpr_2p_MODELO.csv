@@ -1,0 +1,3 @@
+﻿ponto,vao,fracao_vao,comprimento_vao_m,distancia_ao_pilar_inicial_m,posicao_transversal_m,referencia_transversal,orientacao_x,orientacao_y,orientacao_z,inicio_local,fim_local,run_id,fixacao,superficie,temperatura_ambiente_c,vento,pedestres,eventos,foto,observacoes
+P01,A-B,0.5,,,,,Botanico-Politecnico,Esquerda_em_mais_X,Acima,,,,,,,,,,,
+P02,B-C,0.5,,,,,Botanico-Politecnico,Esquerda_em_mais_X,Acima,,,,,,,,,,,

@@ -1,0 +1,10 @@
+ordem,ensaio,duracao_por_arquivo_s,arquivos,observacao
+1,funcional,30,1,Gravidade e integridade; registrar montagem NO01_M1
+2,calibracao_completa,30,18,Tres repeticoes por face do conjunto com reposicionamento; matriz 3x3 e offsets
+3,validacao_calibracao,30,6,Minimo um novo arquivo por direcao; tres repeticoes por direcao totalizam 18; gabarito conhecido
+4,ruido,120,5,Repouso apos aquecimento; mesma montagem e matriz
+5,temporizacao,0,0,Usar os registros anteriores
+6,repetibilidade,0,0,Usar cinco capturas comparaveis
+7,aquecimento,3600,1,Registrar atraso desde energizacao; sem passa-altas
+8,dinamico,120,5,Vibracao livre do conjunto mantendo relacao sensor-base
+9,allan,7200,1,Estender a quatro horas conforme necessidade; sem passa-altas
