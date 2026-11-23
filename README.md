@@ -8,7 +8,7 @@ Use these sketches and Python scripts to record acceleration, calibrate MEMS sen
 | MPU-9250 / GY-9250 · ESP32 DevKit V1 | USB serial acquisition and bench tests | [GY-9250 v1.0.1](setups/mpu9250-esp32-devkit-v1/README.md) |
 | ADXL355 · ESP32-S3 | USB serial acquisition and calibration | [ADXL355 USB v2.0.0](setups/adxl355-esp32-s3/usb/README.md) |
 | ADXL355 · ESP32-S3 | Wi-Fi control and microSD storage for bench tests | [ADXL355 Wi-Fi + microSD v3.0.0](setups/adxl355-esp32-s3/wifi-sd/README.md) |
-| ADXL355 · ESP32-S3 | Comparative tests and a footbridge campaign | [ADXL355 field package v4.1.0](setups/adxl355-esp32-s3/field/README.md) |
+| ADXL355 · ESP32-S3 | Comparative tests and campaign | [ADXL355 field package v4.1.0](setups/adxl355-esp32-s3/field/README.md) |
 
 ## Getting started
 
