@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="500" height="290" preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 290" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="500" height="290"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-290)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="150" width="160" height="133" rx="6" ry="6" style="stroke: rgb(78%,85%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="12" y="263" style="font-family: BookBold; font-size: 11px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,526) scale(1,-1)">xpos</text>
+			<rect x="24" y="189" width="72" height="15" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 60,208 L 60,246 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="60 246, 56.6539 241.0197, 63.3461 241.0197" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,51%); fill-rule: evenodd;"/>
+			<text x="72" y="234" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,468) scale(1,-1)">+Xn</text>
+			<path d="M 126,244 L 126,208 Z" style="stroke: rgb(61%,27%,27%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="126 208, 129.3461 212.9803, 122.6539 212.9803" style="stroke: rgb(61%,27%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(61%,27%,27%); fill-rule: evenodd;"/>
+			<text x="135" y="226" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,452) scale(1,-1)">g</text>
+			<text x="46.34667968749999" y="172" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,344) scale(1,-1)">+Xn para cima</text>
+			<text x="43.60048828125" y="157" style="font-family: Book; font-size: 8.2px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,314) scale(1,-1)">a_ref = (1, 0, 0) g</text>
+			<rect x="170" y="150" width="160" height="133" rx="6" ry="6" style="stroke: rgb(78%,85%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="182" y="263" style="font-family: BookBold; font-size: 11px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,526) scale(1,-1)">xneg</text>
+			<rect x="194" y="189" width="72" height="15" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 230,241 L 230,207 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="230 207, 233.3461 211.9803, 226.6539 211.9803" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,51%); fill-rule: evenodd;"/>
+			<text x="242" y="234" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,468) scale(1,-1)">+Xn</text>
+			<path d="M 296,244 L 296,208 Z" style="stroke: rgb(61%,27%,27%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="296 208, 299.3461 212.9803, 292.6539 212.9803" style="stroke: rgb(61%,27%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(61%,27%,27%); fill-rule: evenodd;"/>
+			<text x="305" y="226" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,452) scale(1,-1)">g</text>
+			<text x="214.931640625" y="172" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,344) scale(1,-1)">+Xn para baixo</text>
+			<text x="212.121044921875" y="157" style="font-family: Book; font-size: 8.2px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,314) scale(1,-1)">a_ref = (-1, 0, 0) g</text>
+			<rect x="340" y="150" width="160" height="133" rx="6" ry="6" style="stroke: rgb(78%,85%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="352" y="263" style="font-family: BookBold; font-size: 11px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,526) scale(1,-1)">ypos</text>
+			<rect x="364" y="189" width="72" height="15" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 400,208 L 400,246 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="400 246, 396.6539 241.0197, 403.3461 241.0197" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,51%); fill-rule: evenodd;"/>
+			<text x="412" y="234" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,468) scale(1,-1)">+Yn</text>
+			<path d="M 466,244 L 466,208 Z" style="stroke: rgb(61%,27%,27%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="466 208, 469.3461 212.9803, 462.6539 212.9803" style="stroke: rgb(61%,27%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(61%,27%,27%); fill-rule: evenodd;"/>
+			<text x="475" y="226" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,452) scale(1,-1)">g</text>
+			<text x="386.6806640625" y="172" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,344) scale(1,-1)">+Yn para cima</text>
+			<text x="383.60048828125" y="157" style="font-family: Book; font-size: 8.2px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,314) scale(1,-1)">a_ref = (0, 1, 0) g</text>
+			<rect x="0" y="5" width="160" height="133" rx="6" ry="6" style="stroke: rgb(78%,85%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="12" y="118" style="font-family: BookBold; font-size: 11px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,236) scale(1,-1)">yneg</text>
+			<rect x="24" y="44" width="72" height="15" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 60,96 L 60,62 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="60 62, 63.3461 66.98032, 56.6539 66.98032" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,51%); fill-rule: evenodd;"/>
+			<text x="72" y="89" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,178) scale(1,-1)">+Yn</text>
+			<path d="M 126,99 L 126,63 Z" style="stroke: rgb(61%,27%,27%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="126 63, 129.3461 67.98032, 122.6539 67.98032" style="stroke: rgb(61%,27%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(61%,27%,27%); fill-rule: evenodd;"/>
+			<text x="135" y="81" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,162) scale(1,-1)">g</text>
+			<text x="45.26562499999999" y="27" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,54) scale(1,-1)">+Yn para baixo</text>
+			<text x="42.121044921875004" y="12" style="font-family: Book; font-size: 8.2px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,24) scale(1,-1)">a_ref = (0, -1, 0) g</text>
+			<rect x="170" y="5" width="160" height="133" rx="6" ry="6" style="stroke: rgb(78%,85%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="182" y="118" style="font-family: BookBold; font-size: 11px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,236) scale(1,-1)">zpos</text>
+			<rect x="194" y="44" width="72" height="15" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 230,63 L 230,101 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="230 101, 226.6539 96.01968, 233.3461 96.01968" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,51%); fill-rule: evenodd;"/>
+			<text x="242" y="89" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,178) scale(1,-1)">+Zn</text>
+			<path d="M 296,99 L 296,63 Z" style="stroke: rgb(61%,27%,27%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="296 63, 299.3461 67.98032, 292.6539 67.98032" style="stroke: rgb(61%,27%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(61%,27%,27%); fill-rule: evenodd;"/>
+			<text x="305" y="81" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,162) scale(1,-1)">g</text>
+			<text x="216.3466796875" y="27" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,54) scale(1,-1)">+Zn para cima</text>
+			<text x="213.60048828125" y="12" style="font-family: Book; font-size: 8.2px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,24) scale(1,-1)">a_ref = (0, 0, 1) g</text>
+			<rect x="340" y="5" width="160" height="133" rx="6" ry="6" style="stroke: rgb(78%,85%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="352" y="118" style="font-family: BookBold; font-size: 11px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,236) scale(1,-1)">zneg</text>
+			<rect x="364" y="44" width="72" height="15" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 400,96 L 400,62 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="400 62, 403.3461 66.98032, 396.6539 66.98032" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,51%); fill-rule: evenodd;"/>
+			<text x="412" y="89" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,178) scale(1,-1)">+Zn</text>
+			<path d="M 466,99 L 466,63 Z" style="stroke: rgb(61%,27%,27%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="466 63, 469.3461 67.98032, 462.6539 67.98032" style="stroke: rgb(61%,27%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(61%,27%,27%); fill-rule: evenodd;"/>
+			<text x="475" y="81" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,162) scale(1,-1)">g</text>
+			<text x="384.931640625" y="27" style="font-family: Book; font-size: 9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,54) scale(1,-1)">+Zn para baixo</text>
+			<text x="382.121044921875" y="12" style="font-family: Book; font-size: 8.2px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,24) scale(1,-1)">a_ref = (0, 0, -1) g</text>
+		</g>
+	</g>
+</svg>

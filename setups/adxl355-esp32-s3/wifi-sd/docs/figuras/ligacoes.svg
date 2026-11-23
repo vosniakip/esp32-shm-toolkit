@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="500" height="300" preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="500" height="300"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-300)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="5" width="500" height="285" rx="8" ry="8" style="stroke: rgb(78%,85%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="104.775390625" y="273" style="font-family: BookBold; font-size: 10px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,546) scale(1,-1)">Dois barramentos SPI | esquema lógico, sem escala</text>
+			<rect x="8" y="45" width="130" height="207" rx="5" ry="5" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="44.9521484375" y="232" style="font-family: BookBold; font-size: 11px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,464) scale(1,-1)">ADXL355</text>
+			<rect x="180" y="45" width="140" height="207" rx="5" ry="5" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="220.526123046875" y="232" style="font-family: BookBold; font-size: 11px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,464) scale(1,-1)">ESP32-S3</text>
+			<rect x="378" y="45" width="114" height="207" rx="5" ry="5" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="409.10595703125" y="232" style="font-family: BookBold; font-size: 11px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,464) scale(1,-1)">microSD</text>
+			<text x="110.315185546875" y="208" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,416) scale(1,-1)">VCC</text>
+			<text x="190" y="208" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,416) scale(1,-1)">3V3</text>
+			<path d="M 138,211 L 180,211 Z" style="stroke: rgb(70%,21%,20%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="108.509765625" y="185" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,370) scale(1,-1)">GND</text>
+			<text x="190" y="185" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,370) scale(1,-1)">GND</text>
+			<path d="M 138,188 L 180,188 Z" style="stroke: rgb(36%,41%,44%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="97.739501953125" y="162" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,324) scale(1,-1)">CS/SCL</text>
+			<text x="190" y="162" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,324) scale(1,-1)">GPIO10</text>
+			<path d="M 138,165 L 180,165 Z" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="85.454345703125" y="139" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,278) scale(1,-1)">MOSI/SDA</text>
+			<text x="190" y="139" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,278) scale(1,-1)">GPIO11</text>
+			<path d="M 138,142 L 180,142 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="106.35986328125" y="116" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,232) scale(1,-1)">SCLK</text>
+			<text x="190" y="116" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,232) scale(1,-1)">GPIO12</text>
+			<path d="M 138,119 L 180,119 Z" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="91.99951171875" y="93" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,186) scale(1,-1)">MISO/AS</text>
+			<text x="190" y="93" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,186) scale(1,-1)">GPIO13</text>
+			<path d="M 138,96 L 180,96 Z" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="103.8115234375" y="70" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,140) scale(1,-1)">DRDY</text>
+			<text x="190" y="70" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,140) scale(1,-1)">GPIO14</text>
+			<path d="M 138,73 L 180,73 Z" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="293.369384765625" y="208" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,416) scale(1,-1)">3V3</text>
+			<text x="387" y="208" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,416) scale(1,-1)">VCC</text>
+			<path d="M 320,211 L 378,211 Z" style="stroke: rgb(70%,21%,20%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="290.509765625" y="185" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,370) scale(1,-1)">GND</text>
+			<text x="387" y="185" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,370) scale(1,-1)">GND</text>
+			<path d="M 320,188 L 378,188 Z" style="stroke: rgb(36%,41%,44%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="278.2744140625" y="162" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,324) scale(1,-1)">GPIO15</text>
+			<text x="387" y="162" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,324) scale(1,-1)">CS</text>
+			<path d="M 320,165 L 378,165 Z" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="278.2744140625" y="139" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,278) scale(1,-1)">GPIO16</text>
+			<text x="387" y="139" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,278) scale(1,-1)">SCK</text>
+			<path d="M 320,142 L 378,142 Z" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="278.2744140625" y="116" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,232) scale(1,-1)">GPIO17</text>
+			<text x="387" y="116" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,232) scale(1,-1)">MOSI</text>
+			<path d="M 320,119 L 378,119 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="278.2744140625" y="93" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,186) scale(1,-1)">GPIO18</text>
+			<text x="387" y="93" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,186) scale(1,-1)">MISO</text>
+			<path d="M 320,96 L 378,96 Z" style="stroke: rgb(8%,34%,47%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="107.4735107421875" y="25" style="font-family: Book; font-size: 8.5px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,50) scale(1,-1)">3V3 e GND compartilhados na PCB | GPIO19/20 reservados ao USB</text>
+		</g>
+	</g>
+</svg>

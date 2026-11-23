@@ -1,0 +1,1 @@
+As figuras geradas pelas análises ficam nesta pasta. Mantenha a organização por execução para localizar o registro de origem.

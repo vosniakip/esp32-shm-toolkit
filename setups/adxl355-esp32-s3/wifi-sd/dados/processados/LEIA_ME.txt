@@ -1,0 +1,1 @@
+Cada análise grava seus resultados em uma subpasta própria. Preserve os dados brutos e os metadados que deram origem a esses arquivos.

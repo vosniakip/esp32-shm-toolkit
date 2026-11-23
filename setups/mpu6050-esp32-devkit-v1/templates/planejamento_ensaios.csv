@@ -1,0 +1,13 @@
+ordem,ensaio,posicao,repeticoes,duracao_s,aquecimento_min,filtro_offline,observacao
+1,funcional,Zpos,1,30,10,nenhum,Verificar eixos e modulo aproximado de 1 g
+2,calibracao,Xpos,3,60,20,nenhum,Nao retirar media nem aplicar passa-altas
+3,calibracao,Xneg,3,60,20,nenhum,Nao retirar media nem aplicar passa-altas
+4,calibracao,Ypos,3,60,20,nenhum,Nao retirar media nem aplicar passa-altas
+5,calibracao,Yneg,3,60,20,nenhum,Nao retirar media nem aplicar passa-altas
+6,calibracao,Zpos,3,60,20,nenhum,Nao retirar media nem aplicar passa-altas
+7,calibracao,Zneg,3,60,20,nenhum,Nao retirar media nem aplicar passa-altas
+8,repouso,Zpos,5,120,20,Somente na analise PSD,Base rigida e sem movimentos
+9,aquecimento,Zpos,1,3600,0,nenhum,Iniciar imediatamente apos energizar
+10,dinamico,conforme_montagem,5,120,20,Butterworth 0.5-50 Hz,Excitacao pequena e repetivel
+11,allan,Zpos,1,14400,30,nenhum,Registro continuo de 4 horas
+

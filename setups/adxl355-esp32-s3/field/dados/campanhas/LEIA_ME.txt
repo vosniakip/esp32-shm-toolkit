@@ -1,0 +1,1 @@
+Guarde nesta pasta os arquivos de acompanhamento das campanhas. Preserve os JSONs usados para identificar os pontos, os registros e a calibração.

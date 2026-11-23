@@ -1,0 +1,79 @@
+{
+  "versao": "0.10",
+  "data": "2026-11-05",
+  "unidade": "mm",
+  "referencia": "v0.9, dimensões fornecidas e disposição com shield sobre a borda longa. A origem XY é o canto interno frontal esquerdo, Z=0 na face externa inferior.",
+  "caixa": {
+    "externa_fechada_sem_cabecas": [125, 120, 43],
+    "base": [125, 120, 40],
+    "tampa": [125, 120, 6],
+    "tampa_espessura_externa": 3,
+    "tampa_guia_interna_altura": 3,
+    "cavidade_xy": [119, 114],
+    "fundo": 6,
+    "parede": 3,
+    "raio_externo": 6,
+    "fundo_plano_fechado": true,
+    "base_v09_xy": [190.5, 132],
+    "reducao_area_percentual": 40.3484
+  },
+  "pcb_principal": {
+    "dimensoes": [80, 60, 1],
+    "origem_xy": [1, 26],
+    "face_inferior_z": 14,
+    "face_superior_z": 15,
+    "projecoes_acima_abaixo": [9, 6],
+    "folga_soldas_fundo": 2,
+    "centros_furos_xy": [[3, 28], [3, 84], [79, 28], [79, 84]],
+    "furo_diametro": 2.4,
+    "recuo_furos": 2,
+    "fixacao": "4 M2 x 6 mm com porcas e arruelas isolantes de 0,4 mm"
+  },
+  "shield": {
+    "dimensoes_pcb": [100, 29, 1.5],
+    "montagem": "PCB vertical, eixo longo em Y, célula voltada para -X",
+    "intervalo_placa_x": [111.5, 113],
+    "intervalo_placa_y": [6, 106],
+    "intervalo_placa_z": [8, 37],
+    "espessura_envelope_montado": 25,
+    "intervalo_envelope_x": [88, 113],
+    "folga_traseira": 6,
+    "corredor_ate_PCB": 7,
+    "centros_furos_yz": [[8.5, 10.5], [103.5, 10.5], [8.5, 34.5], [103.5, 34.5]],
+    "furo_diametro": 3.4,
+    "recuo_furos": 2.5,
+    "fixacao": "4 M3 x 6 mm com porcas e arruelas isolantes de 0,4 mm",
+    "usb_a_avanco": 6,
+    "usb_a_folga_ate_parede_interna": 2,
+    "deslocamento_nominal_retirada_menos_x": 4.25
+  },
+  "antena": {
+    "direcao": "-Y, oposta à USB do ESP32",
+    "parede_interna_y": 0,
+    "ponta_nominal_y": 20,
+    "folga_frontal": 20,
+    "projecao_referencia_alem_da_PCB": 6,
+    "largura_referencia": 26,
+    "verificar_na_PCB_real": true
+  },
+  "chicote": {
+    "diametro_externo_referencia": 1.4,
+    "diametro_externo_maximo_sugerido": 1.6,
+    "centro_z": 7,
+    "conector_referencia_origem_xyz": [59, 12.5, 6.8],
+    "conector_referencia_dimensoes": [16, 10, 7],
+    "olhal_xy": [64, 7],
+    "soldas_localizacao_referencia": true
+  },
+  "tampa": {
+    "centros_furos_xy": [[6, 6], [76, 6], [6, 108], [76, 108]],
+    "fixacao": "4 M3 x 10 mm com porcas; cabeças não escareadas"
+  },
+  "impressao": {
+    "impressora": "Bambu Lab A1",
+    "filamento": "PLA",
+    "bico": 0.4,
+    "base_faixas_z_densidade_altura_camada": [[0, 6, 100, 0.2], [6, 14, 35, 0.1], [14, 40, 35, 0.2]],
+    "projetos_nao_fatiados": true
+  }
+}

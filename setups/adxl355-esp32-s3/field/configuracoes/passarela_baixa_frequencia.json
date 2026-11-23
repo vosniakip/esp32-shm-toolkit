@@ -1,0 +1,17 @@
+{
+  "sensor": "adxl355-01",
+  "montagem": "pcb-inclinada-v1",
+  "referencial": "conjunto",
+  "taxa": 500,
+  "faixa": 2,
+  "repeticao": 1,
+  "repeticoes": 1,
+  "atraso_s": 10,
+  "intervalo_s": 10,
+  "radio": "ativo",
+  "calibracao_id": "PREENCHER-ID",
+  "nota": "Conferir os identificadores com a calibracao do conjunto antes de adquirir.",
+  "ensaio": "passarela",
+  "posicao": "P02",
+  "duracao_s": 3600
+}

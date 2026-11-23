@@ -1,0 +1,19 @@
+{
+  "formato": "orientacoes_conjunto_v1",
+  "referencial": "conjunto",
+  "descricao_eixos": {
+    "x": "Xn: primeira direcao marcada na base do conjunto",
+    "y": "Yn: direcao perpendicular a Xn no plano da base",
+    "z": "Zn: normal positiva a base, completando um referencial de mao direita"
+  },
+  "origem_referencia": "Gabarito de 45 graus verificado externamente; nao estimar o angulo com o proprio ADXL355.",
+  "observacao": "Exemplos de vetores conhecidos. Use somente se o gabarito realizar estas direcoes. Os tres eixos brutos do sensor nao precisam coincidir com estes valores.",
+  "orientacoes": {
+    "xypos": {"direcao": [0.7071067811865476, 0.7071067811865476, 0], "descricao": "Xn e Yn dividem igualmente a componente positiva; Zn horizontal"},
+    "xyneg": {"direcao": [-0.7071067811865476, -0.7071067811865476, 0], "descricao": "Posicao oposta a xypos"},
+    "xzpos": {"direcao": [0.7071067811865476, 0, 0.7071067811865476], "descricao": "Xn e Zn dividem igualmente a componente positiva; Yn horizontal"},
+    "xzneg": {"direcao": [-0.7071067811865476, 0, -0.7071067811865476], "descricao": "Posicao oposta a xzpos"},
+    "yzpos": {"direcao": [0, 0.7071067811865476, 0.7071067811865476], "descricao": "Yn e Zn dividem igualmente a componente positiva; Xn horizontal"},
+    "yzneg": {"direcao": [0, -0.7071067811865476, -0.7071067811865476], "descricao": "Posicao oposta a yzpos"}
+  }
+}

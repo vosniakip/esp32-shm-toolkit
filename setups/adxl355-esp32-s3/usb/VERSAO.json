@@ -1,0 +1,8 @@
+{
+  "pacote": "ADXL355_ESP32S3_Ensaios",
+  "versao_pacote": "2.0.0",
+  "versao_firmware": "1.0.0",
+  "protocolo": "ADXL355_S3_V1",
+  "calibracao_padrao": "matriz_completa",
+  "data": "2026-10-05"
+}

@@ -1,0 +1,12 @@
+etapa,acao,data_hora,exemplar,montagem,core_arduino,placa_flash,resultado,evidencia,observacao
+A,Compilacao real Arduino,,,,,,,,
+B,IDs e INFO,,,,,,,,
+C,Funcional 30 s,,,,,,,,
+D,Radio ativo 5 x 120 s,,,,,,,,
+E,Radio desligado 5 x 120 s,,,,,,,,
+F,Desconectar cliente durante registro,,,,,,,,
+G,Retomar download,,,,,,,,
+H,STOP,,,,,,,,
+I,Sequencia autonoma,,,,,,,,
+J,Partida a frio,,,,,,,,
+K,Registro longo,,,,,,,,

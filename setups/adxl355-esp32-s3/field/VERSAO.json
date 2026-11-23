@@ -1,0 +1,19 @@
+{
+  "pacote": "ADXL355_ESP32S3_Comparativos_Passarela",
+  "versao": "4.1.0",
+  "data": "2026-11-11",
+  "base": "ADXL355_ESP32S3_Comparativos_Passarela_v4.0.0",
+  "transporte": "SoftAP HTTP local + microSD + download SHA256",
+  "formato_binario": "ADXL355_SD_V3",
+  "firmware_compilado_toolchain_real": false,
+  "hardware_validado_nesta_entrega": false,
+  "campanha_passarela": {
+    "pontos": [
+      "P01_meio_AB",
+      "P02_meio_BC"
+    ],
+    "duracao_por_ponto_s": 1200,
+    "arranjo": "um_no_sucessivo",
+    "script": "27_passarela_ufpr.py"
+  }
+}

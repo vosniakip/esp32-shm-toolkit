@@ -1,0 +1,3 @@
+# Preserve bytes of archived package source and fixture files for SHA-256 checks.
+* text=auto
+setups/** -text

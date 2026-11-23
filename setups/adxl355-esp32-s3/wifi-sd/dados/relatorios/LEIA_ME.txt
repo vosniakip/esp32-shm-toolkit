@@ -1,0 +1,1 @@
+Guarde aqui os relatórios das análises. Use subpastas por execução para preservar os relatórios anteriores e facilitar a consulta aos resultados de origem.
